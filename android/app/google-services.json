@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1067445868244",
+    "project_id": "shomiti-34121",
+    "storage_bucket": "shomiti-34121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067445868244:android:fa755e6b7ba63ffdb9cd41",
+        "android_client_info": {
+          "package_name": "com.example.somiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067445868244-qskfa8kgdmj8umm0omm57dt9uq8m3mjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.somiti",
+            "certificate_hash": "3cff32b78c3b3337e43581d442fcaace6bec67ba"
+          }
+        },
+        {
+          "client_id": "1067445868244-463mobiu6gn5l7a6lii1dbns4jui1hte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcCRAp5_emEBK-xOr7ufIFiWTcHva1P2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067445868244-463mobiu6gn5l7a6lii1dbns4jui1hte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
